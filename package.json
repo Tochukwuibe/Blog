@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && nodemon ./build/server.js"
   },
-  "author": "toch",
+  "author": "Tochukwu Ibe-Ekeocha",
   "license": "ISC",
   "keywords": [
     "REST",
